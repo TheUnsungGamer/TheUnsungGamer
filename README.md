@@ -19,7 +19,7 @@ manager — I bring the same intensity to code that I brought to the line.
 | [Project Ash Stack](https://github.com/TheUnsungGamer/Project-Ash-Stack) | Local AI terminal with voice synthesis, offline maps, and React/TypeScript frontend | TypeScript · Python · FastAPI · TTS |
 | [Project Ash Synapses](https://github.com/TheUnsungGamer/Project-Ash-Synapses) | Transforms chat history into a living semantic network using vector embeddings | Python · Embeddings |
 | [Sir SourDough Co.](https://github.com/TheUnsungGamer/ssDough.github.io) | Artisan bakery marketing site — mobile-responsive with integrated order form | HTML · CSS · JS | In progress, licenses limit scope of website atm
-| [JS Kata Exercises](https://github.com/TheUnsungGamer/rvc-voice-pipeline) | A barebones, redistributable shell for RVC voice conversion with three operating modes: | Python |
+| [Rvc-voice-pipeline](https://github.com/TheUnsungGamer/rvc-voice-pipeline) | A barebones, redistributable shell for RVC voice conversion with three operating modes: | Python |
 
 ## 📬 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-brown-a92469277/)

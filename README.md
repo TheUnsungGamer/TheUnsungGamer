@@ -1,7 +1,6 @@
 # Hey, I'm Bruce 👋
 
-Self-taught full-stack developer based in Nashua, NH. I build local AI tools,
-my personal artisan bakery website, and everything in between. Former chef and operations
+Self-taught full-stack developer based in Nashua, NH. I build local AI tools, responsive websites,microcontroller devices and everythinbg in between. Former chef and operations
 manager — I bring the same intensity to code that I brought to the line.
 
 ## 🛠 Tech Stack

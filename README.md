@@ -1,6 +1,6 @@
 # Hey, I'm Bruce 👋
 
-Self-taught full-stack developer based in Nashua, NH. I build local AI tools, responsive websites,microcontroller devices and everything in between. Former chef and operations
+full-stack developer NH. I build local AI tools, responsive websites,microcontroller devices and everything in between. Former chef and operations
 manager — I bring the same intensity to code that I brought to the line.
 
 ## 🛠 Tech Stack
@@ -24,4 +24,4 @@ manager — I bring the same intensity to code that I brought to the line.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-brown-a92469277/)
 
 ---
-🔨 Building Project Ash Stack  ·  📚 Learning every day  ·  👀 Open to junior dev opportunities
+🔨 Building Project Ash Stack  ·  📚 Learning every day  ·  

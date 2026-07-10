@@ -1,6 +1,6 @@
 # Hey, I'm Bruce 👋
 
-full-stack developer NH. I build local AI tools, responsive websites,microcontroller devices and everything in between. Former chef and operations
+full-stack developer NH. I build local tools, responsive websites,microcontroller devices and everything in between. Former chef and operations
 manager — I bring the same intensity to code that I brought to the line.
 
 ## 🛠 Tech Stack
